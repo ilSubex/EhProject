@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EH_GP3_25",
+			"Path": "..\\Source\\EH_GP3_25.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EH_GP3_25Editor",
+			"Path": "..\\Source\\EH_GP3_25Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

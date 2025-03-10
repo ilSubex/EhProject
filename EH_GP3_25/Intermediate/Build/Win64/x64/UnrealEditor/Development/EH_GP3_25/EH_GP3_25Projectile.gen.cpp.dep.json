@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jesus\\desktop\\eh_gp3_25\\intermediate\\build\\win64\\unrealeditor\\inc\\eh_gp3_25\\uht\\eh_gp3_25projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jesus\\desktop\\eh_gp3_25\\intermediate\\build\\win64\\x64\\eh_gp3_25editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jesus\\desktop\\eh_gp3_25\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eh_gp3_25\\definitions.eh_gp3_25.h",
+            "c:\\users\\jesus\\desktop\\eh_gp3_25\\source\\eh_gp3_25\\eh_gp3_25projectile.h",
+            "c:\\users\\jesus\\desktop\\eh_gp3_25\\intermediate\\build\\win64\\unrealeditor\\inc\\eh_gp3_25\\uht\\eh_gp3_25projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
